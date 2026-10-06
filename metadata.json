@@ -1,0 +1,6 @@
+{
+  "name": "Smart Traffic Route Optimization",
+  "description": "Intelligent city traffic routing system for DAA Hackathons comparing Dijkstra and A* algorithms with real-time congestion simulation and complexity analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
